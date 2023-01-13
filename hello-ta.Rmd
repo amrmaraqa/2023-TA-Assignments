@@ -1,0 +1,11 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+library(tidyverse)
+
+library(igraph)
+
+#Hello, TA!
+
